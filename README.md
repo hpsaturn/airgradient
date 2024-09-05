@@ -1,2 +1,7 @@
-# airgradient
-Migration to PlatformIO of the official firmware for Airgradient Open Air kit.
+# Airgradient PlatformIO
+
+Migration to PlatformIO of the official firmware of the Airgradient Open Air kit.
+
+TODO
+
+- [ ] Sync with the last version
